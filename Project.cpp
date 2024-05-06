@@ -1,3 +1,5 @@
+// This program is written by Aryan Patel (23CS057), Debdoot Manna (23CS043) and Hitansh Parikh (23CS054).
+
 #include <iostream>
 #include <vector>
 #include <string>
